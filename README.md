@@ -7,7 +7,7 @@
 </p>
 
 Set of useful scrollable views that includes `ConstrainedScrollView`, `ScrollableColumn`, and `ScrollableRow`.
-* `ConstrainedScrollView` is combination of `LayoutBuilder` and `SingleChildScrollView`.
+* `ConstrainedScrollView` is a combination of `LayoutBuilder` and `SingleChildScrollView`.
 * `ScrollableColumn` is `Column` wrapped by `ConstrainedScrollView`.
 * `ScrollableRow` is `Row` wrapped by `ConstrainedScrollView`.
 
