@@ -3,7 +3,7 @@ import 'package:flutter/gestures.dart';
 import 'package:flutter/widgets.dart';
 
 /// {@template scrollable_row}
-/// A scrollable vertical array of children.
+/// A scrollable horizontal array of children.
 ///
 /// It's combination of [Row] and [ConstrainedScrollView].
 /// [ScrollableRow] includes all configuration of those widgets.

@@ -7,11 +7,11 @@
 </p>
 
 Set of useful scrollable views that includes `ConstrainedScrollView`, `ScrollableColumn`, and `ScrollableRow`.
+* `ConstrainedScrollView` is combination of `LayoutBuilder` and `SingleChildScrollView`.
+* `ScrollableColumn` is `Column` wrapped by `ConstrainedScrollView`.
+* `ScrollableRow` is `Row` wrapped by `ConstrainedScrollView`.
 
 ## Usage
-
-Usage of scrollable views is very simple: `ConstrainedScrollView` is combination of `SingleChildScrollView` and `LayoutBuilder`; `ScrollableColumn` and `ScrollableRow` - `Column` and `Row` wrapped by `ConstrainedScrollView`.
-
 Example of using `ConstrainedScrollView`:
 ```dart
 ConstrainedScrollView(
