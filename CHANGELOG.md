@@ -1,3 +1,7 @@
+# 1.0.1
+
+- Updated documentation.
+
 # 1.0.0
 
-- Initial version.
+- Set of useful scrollable views includes `ConstrainedScrollView`, `ScrollableColumn`, and `ScrollableRow`.

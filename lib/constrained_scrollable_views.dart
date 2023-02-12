@@ -1,4 +1,4 @@
-/// Set of useful scrollable views that includes ConstrainedScrollView,
+/// Set of useful scrollable views includes ConstrainedScrollView,
 /// ScrollableColumn, and ScrollableRow.
 library constrained_scrollable_views;
 

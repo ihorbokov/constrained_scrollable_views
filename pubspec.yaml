@@ -1,5 +1,5 @@
 name: constrained_scrollable_views
-description: Set of useful scrollable views that includes ConstrainedScrollView, ScrollableColumn, and ScrollableRow.
+description: Set of useful scrollable views includes ConstrainedScrollView, ScrollableColumn, and ScrollableRow.
 version: 1.0.0
 homepage: https://github.com/phimary/constrained_scrollable_views
 
