@@ -6,7 +6,7 @@
 <a href="https://opensource.org/licenses/MIT"><img src="https://img.shields.io/badge/license-MIT-purple.svg" alt="License: MIT"></a>
 </p>
 
-Set of useful scrollable views that includes `ConstrainedScrollView`, `ScrollableColumn`, and `ScrollableRow`.
+Set of useful scrollable views includes `ConstrainedScrollView`, `ScrollableColumn`, and `ScrollableRow`.
 * `ConstrainedScrollView` is a combination of `LayoutBuilder` and `SingleChildScrollView`.
 * `ScrollableColumn` is `Column` wrapped by `ConstrainedScrollView`.
 * `ScrollableRow` is `Row` wrapped by `ConstrainedScrollView`.
