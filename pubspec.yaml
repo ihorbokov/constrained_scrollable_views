@@ -1,0 +1,16 @@
+name: constrained_scrollable_views
+description: Set of useful scrollable views that includes ConstrainedScrollView, ScrollableColumn, and ScrollableRow.
+version: 1.0.0
+homepage: https://github.com/phimary/constrained_scrollable_views
+
+environment:
+  sdk: '>=2.12.0 <3.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  very_good_analysis: ^4.0.0
